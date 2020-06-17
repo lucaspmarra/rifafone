@@ -58,3 +58,13 @@
 	
 }
 
+.uk-card{
+	border-radius: 1rem !important; 
+	border: none;
+}
+.uk-card-header {
+	border-radius: 1rem;
+}
+.uk-overlay {
+	border-radius: 1rem;
+}
